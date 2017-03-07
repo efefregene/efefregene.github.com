@@ -1,0 +1,131 @@
+/*body{
+	margin-bottom: 50px !important;
+}
+*/
+html{
+	position: relative;
+	min-height: 100%;
+}
+cite{
+	text-align: right;
+}
+
+#quotes{
+	margin-top:3rem;
+}
+#broad_name{
+	margin-top:3rem;
+}
+
+#extra_large{
+	font-size: 3.8rem;
+	margin-bottom: 0rem;
+	text-align: center;
+}
+#quite_large{
+	font-size: 1.5rem;
+	font-style: italic;
+	text-align: center;
+}
+p.large{
+	font-size: 1.7rem;
+	text-align: center;
+}
+hr.horizon{
+	width: 90%;
+	height: 2px;
+	background: #D3D3D3;
+	margin-top:5rem;
+	margin-bottom: 2.5rem;
+}
+#border-d-right{
+	border-right: 2px solid #D3D3D3;
+	padding-right: 2.5rem;
+}
+#no-padding{
+	padding: 0rem;
+}
+
+
+#first-interest{
+	text-align: left;
+}
+#second-interest{
+	text-align: right;
+}
+p.justify{
+	text-align: justify;
+}
+
+form.forms{
+	padding: 2em 2em 0em 2em;
+/*	margin-right: 15em;
+	margin-left: 15em;*/
+	border: 1px solid #D3D3D3;
+	border-radius: 10px;
+
+}
+
+#namel{
+	text-align: left;
+}
+
+#emaill{
+	text-align: left;
+}
+
+#messagel{
+	text-align: left;
+}
+textarea{
+	padding-bottom: 8em !important;
+}
+
+#submitId{
+	position: relative;
+	float: right;
+}
+#btn{
+	margin-bottom: 0em;
+	padding-bottom: 0em;
+}
+#footer1{
+	border: 2px solid #D3D3D3;
+	padding-top: 0.9375rem;
+}
+#footer2{
+	padding-top: 0.9375rem;
+}
+
+#copyright-ish{
+	position: relative;
+    
+}
+#copyright-img{
+	float: right;
+}
+
+#copyright-text{
+	
+}
+
+ #copyright-name{
+ 	padding-left: 0rem;
+ }
+
+a i,span {
+	text-decoration:none;
+	border:0;
+	outline-style: none;
+	color: #000
+}
+.hamburger{
+	font-size: 1.5rem;
+}
+/*#top-bar-right{
+	position: absolute;
+	float: right !important;
+}*/
+/*#top-bar{
+	width: 100%
+}*/
